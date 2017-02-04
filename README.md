@@ -8,5 +8,6 @@ Please feel free to play with it.
 
 #Instructions to run the jupyter notebook
 1. Plese install [Miniconda](https://conda.io/miniconda.html)/[Anaconda](https://www.continuum.io/downloads) on your computer first.
-2. Create a new conda environemnt in the local directory where you download this repository:
+2. Create a new conda environemnt in the local directory where you download this repository:<br />
 ```conda create --name dlnd python=3```
+3. Enter your new environemnt:
