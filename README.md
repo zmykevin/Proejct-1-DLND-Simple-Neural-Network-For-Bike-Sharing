@@ -9,5 +9,9 @@ Please feel free to play with it.
 #Instructions to run the jupyter notebook
 1. Plese install [Miniconda](https://conda.io/miniconda.html)/[Anaconda](https://www.continuum.io/downloads) on your computer first.
 2. Create a new conda environemnt in the local directory where you download this repository:<br />
-```conda create --name dlnd python=3```
-3. Enter your new environemnt:
+```conda create --name env_name python=3```
+3. Enter your new environemnt:<br />
+  * Mac/Linux: ```source activate env_name```
+  * Windows: ```activate env_name```
+4. Install a list of necessary libraries, including `numpy`, `matplotlib`, `pandas`, and `jupyter notebook`. The command is as following: <br />
+```conda install numpy matplotlib pandas jupyter notebook```
