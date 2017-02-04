@@ -1,4 +1,4 @@
-# Proejct-1-DLND-Simple-Neural-Network-For-Bike-Sharing
+# Project-1-DLND-Simple-Neural-Network-For-Bike-Sharing
 
 This is my first project assignment for Udacity Deep Learning Foundation Nano Degree. 
 The jupyter notebook contains my implementation of a 2-layer neural network to predict bike share with the data from
